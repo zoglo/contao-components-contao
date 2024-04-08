@@ -99,6 +99,9 @@ select,input,textarea {
 .block {
 	overflow:hidden;
 }
+.media {
+	display:flow-root;
+}
 .clear,#clear {
 	height:0.1px;
 	font-size:0.1px;
